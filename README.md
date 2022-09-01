@@ -9,3 +9,5 @@
 7- git commit --amend
 8- git checkout -b 'nombre de la rama'
 9- git checkout 'nombre de la rama'
+10- git merge 'nombre de la rama'
+11- git branch -d 'nombre de la rama'
