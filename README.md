@@ -11,3 +11,5 @@
 9. git checkout 'nombre de la rama'
 10. git merge 'nombre de la rama'
 11. git branch -d 'nombre de la rama'
+12. git push
+13. git commit -am 'MENSAJE'
